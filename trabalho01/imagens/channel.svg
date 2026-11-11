@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" preserveAspectRatio="xMidYMid slice">
+  <rect width="520" height="330" fill="#cfc7bd"/>
+  <rect y="230" width="520" height="100" fill="#b9b0a4"/>
+  <!-- jaqueta -->
+  <path d="M170 110 Q260 70 350 110 L370 215 L150 215 Z" fill="#5e5a3a"/>
+  <!-- jeans -->
+  <path d="M110 215 L410 215 L440 300 L300 320 L260 250 L220 320 L80 300 Z" fill="#3f6a9c"/>
+  <!-- tênis -->
+  <ellipse cx="130" cy="310" rx="55" ry="16" fill="#f3f3f3"/>
+  <ellipse cx="390" cy="310" rx="55" ry="16" fill="#f3f3f3"/>
+  <!-- celular -->
+  <rect x="245" y="205" width="30" height="50" rx="4" fill="#222"/>
+  <!-- ícones sociais -->
+  <circle cx="225" cy="70" r="14" fill="#7a4fc4"/>
+  <circle cx="275" cy="45" r="14" fill="#3b9be0"/>
+  <circle cx="320" cy="85" r="16" fill="#f2b632"/>
+  <circle cx="250" cy="110" r="13" fill="#e85a4f"/>
+  <circle cx="300" cy="125" r="13" fill="#4bc16a"/>
+  <circle cx="200" cy="115" r="11" fill="#2f6fd0"/>
+  <text x="260" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7d756a">imagem de exemplo - substitua pela original</text>
+</svg>
