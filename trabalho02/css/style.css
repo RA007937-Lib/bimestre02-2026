@@ -1,0 +1,23 @@
+body {
+  background-color: #fff;
+  font-family: "Poppins", "Segoe UI", Arial, sans-serif;
+}
+
+.titulo-secao {
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.tabela-conbran {
+  font-size: 0.85rem;
+}
+
+.tabela-conbran th {
+  font-size: 0.8rem;
+}
+
+.tabela-conbran td {
+  color: #555;
+}
